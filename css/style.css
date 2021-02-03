@@ -91,6 +91,18 @@ h2 {
 .custom-radio .custom-control-label::before,
 .custom-checkbox .custom-control-label::before {
     background: #dddddd;
+    Specialty Foods
+    All Foods
+    All Drinks
+    Gift Cards
+    About Us
+    Lewis & Clark Website
+    ￼Previous
+    ￼￼￼￼￼￼￼
+    ￼Next￼1
+    ￼2
+    ￼3
+    
     border-color: #dddddd;
 }
 
@@ -460,6 +472,7 @@ h2 {
 
 .header-slider .header-slider-item {
     position: relative;
+    
 }
 
 .header-slider .header-slider-caption {
